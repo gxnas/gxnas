@@ -10,6 +10,12 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/gxnas/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-### Activity
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=gxnas&theme=dracula)
+<h2 align='center'><i><a href="https://github.com/gxnas/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/gxnas/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gxnas&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/gxnas/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gxnas&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
