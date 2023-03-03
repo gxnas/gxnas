@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to NAS/synology.
-- 📫 How to reach me: admin@gxnas.com
 - 😄 To learn more, please visit my blog: [here](https://wp.gxnas.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=gxnas&show_icons=true&theme=transparent)
