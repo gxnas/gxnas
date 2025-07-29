@@ -1,20 +1,31 @@
-### Hi there 👋,I'm GXNAS.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="gxnas" width="200" height="200" style="border-radius: 50%;" />
+</div>
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to NAS/synology.
-- 😄 To learn more, please visit my blog: [here](https://wp.gxnas.com)
+# Hi 👋, I'm gxnas
 
-![](https://github-readme-stats.vercel.app/api?username=gxnas&show_icons=true&theme=transparent)
+🌱 一个爱折腾的小白  
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/gxnas/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+<br/><br/>  
 
-<h2 align='center'><i><a href="https://github.com/gxnas/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/gxnas/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gxnas&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/gxnas/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gxnas&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gxnas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxnas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gxnas&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>  
+
+<br/><br/>  
+
+## 📈 最近活动
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gxnas&theme=github-compact&width=600&height=300" alt="Activity Graph" onerror="this.onerror=null; this.parentElement.innerHTML='<p>Activity graph failed to load</p>';" />
+</div>
